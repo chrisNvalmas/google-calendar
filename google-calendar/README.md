@@ -6,7 +6,7 @@
 
 # Features
 
-- Show four five different event types
+- Shows five different event types
   - One time events
   - Daily events
   - Weekly events
@@ -20,4 +20,3 @@
   - Daily events monday-friday
   - Weekly events that occur multiple times a week (every tuesday and thursday weekly)
   - Handle last x day of the month events
-    - Currently weekly events are handed by showing x day in y week of month
